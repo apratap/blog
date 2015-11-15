@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>opniche (medicine)</title><link>https://apratap.github.io/blog/</link><description></description><atom:link type="application/rss+xml" rel="self" href="https://apratap.github.io/blog/categories/medicine.xml"></atom:link><language>en</language><lastBuildDate>Sun, 15 Nov 2015 22:51:32 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Medicine -- challenged by technology, its consumer &amp; cost</title><link>https://apratap.github.io/blog/posts/medicine-challenged-by-technology-its-consumer-cost/</link><dc:creator>Abhishek Pratap (Abhi)</dc:creator><description>&lt;div tabindex="-1" id="notebook" class="border-box-sizing"&gt;
+    &lt;div class="container" id="notebook-container"&gt;
+
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;
+&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;p&gt;&lt;strong&gt;Health-care is served from a menu of treatments and guidelines designed decades ago, primarily by the western countries.&lt;/strong&gt;  The dynamics of the world has significantly changed. Approximately 70% of world population is now living in developing countries, and that number is expected to rise to 90% in next 2-3 decades.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://www.dropbox.com/s/eyxkjwu6jdq3jej/image1.png?raw=1" align="middile" height="450" width="550"&gt;&lt;/p&gt;
+&lt;p&gt;Health care consumers and advocates are now beginning to question the same old ingredients that don't quite serve well the eclectic needs of our growing population.&lt;/p&gt;
+&lt;p&gt;A fresh health-care services menu with upfront pricing is needed. One that is cost effective and tailored to their local needs just like our local restaurants. It was refreshing to read in &lt;a href="http://ic2030.org/"&gt;PATH's 2030 report&lt;/a&gt;, how the “jugaad” or frugal innovation is finally catching the attention of westerners innovators.  For mass adoption and any significant impact in the developing world, health-care innovation will need to justify costs at each step of product development.  Innovators now need to bring in affordability for end users at the very center of their product design.&lt;/p&gt;
+&lt;p&gt;I was also upset to see that the report lacked digital health based innovations. Although, they briefly mention about mobile health based technology and its role in managing chronic diseases, the report did not pick any specific startup disrupting the mHealth sector.  I wanted to read more about those startups.&lt;/p&gt;
+&lt;p&gt;In resource-limited settings where both the number of care providers and costs are limiting factors to provide even basic primary care, digital health can be leveraged to help provide the last mile of care in rural population. Even in developed nations the medical system struggles to produce super health evangelists like Dr. Brenner (from the hotspotter's reading) who care intimately about the well being of a patient just like their mom would.  For example, care in the US is built around single patient-doctor encounters like a primary care visit or an emergency room encounter. However, many of the patients diseases such as diabetes require continual long-term care in close partnership with their care team. Just one-off clinic visits can't capture the longitudinal disease complexities the patient has to live with.  Smart informatics tools could fill this gap by helping the patient capture, understand and manage their disease in close partnership with their doctor.&lt;/p&gt;
+&lt;p&gt;Enabling the transformation of doctor driven care to the doctor-patient partnership is a great opportunity for entrepreneurs of this decade. I believe digital health based innovation can help aid in the redesign of health-care services menu for sustainable and tailored care.&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In [ ]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt; 
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description><category>consumer</category><category>DigitlHealth</category><category>epatient</category><category>medicine</category><guid>https://apratap.github.io/blog/posts/medicine-challenged-by-technology-its-consumer-cost/</guid><pubDate>Sun, 15 Nov 2015 21:47:24 GMT</pubDate></item></channel></rss>

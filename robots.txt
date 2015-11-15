@@ -1,0 +1,4 @@
+Sitemap: https://apratap.github.io/blog/sitemapindex.xml
+
+User-Agent: *
+Host: apratap.github.io
