@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://apratap.github.io/blog/</loc>
-  <lastmod>2015-11-15T22:27:00Z</lastmod>
+  <lastmod>2015-12-05T22:35:00Z</lastmod>
  </url>
  <url>
   <loc>https://apratap.github.io/blog/2015/</loc>
@@ -15,11 +15,11 @@
  </url>
  <url>
   <loc>https://apratap.github.io/blog/archive.html</loc>
-  <lastmod>2015-11-15T22:59:00Z</lastmod>
+  <lastmod>2015-12-05T22:43:00Z</lastmod>
  </url>
  <url>
   <loc>https://apratap.github.io/blog/categories/</loc>
-  <lastmod>2015-11-16T00:14:00Z</lastmod>
+  <lastmod>2015-12-05T22:35:00Z</lastmod>
  </url>
  <url>
   <loc>https://apratap.github.io/blog/categories/amia2015/</loc>
@@ -46,8 +46,16 @@
   <lastmod>2015-11-15T22:27:00Z</lastmod>
  </url>
  <url>
+  <loc>https://apratap.github.io/blog/categories/mhealth/</loc>
+  <lastmod>2015-12-05T22:35:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://apratap.github.io/blog/categories/startups/</loc>
   <lastmod>2015-11-15T22:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://apratap.github.io/blog/categories/telemedicine/</loc>
+  <lastmod>2015-12-05T22:35:00Z</lastmod>
  </url>
  <url>
   <loc>https://apratap.github.io/blog/galleries/</loc>
@@ -66,7 +74,19 @@
   <lastmod>2015-11-15T22:27:00Z</lastmod>
  </url>
  <url>
+  <loc>https://apratap.github.io/blog/posts/digital-health-revolution-in-primary-care-is-not-coming-its-here/</loc>
+  <lastmod>2015-12-05T22:35:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://apratap.github.io/blog/posts/medicine-challenged-by-technology-its-consumer-cost/</loc>
   <lastmod>2015-11-15T22:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://apratap.github.io/blog/posts/telemedicine-on-demand-health-care-becoming-reality/</loc>
+  <lastmod>2015-12-05T22:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://apratap.github.io/blog/stories/digital-health-startups/</loc>
+  <lastmod>2015-12-05T22:35:00Z</lastmod>
  </url>
 </urlset>
